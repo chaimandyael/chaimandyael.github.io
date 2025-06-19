@@ -15,14 +15,14 @@ body {
   <meta property="og:url" content="https://yaelandchaimswedding.github.io/" />
   <meta property="og:title" content="Yael and Chaim’s Wedding! TEST 7 | RSVP Form" />
   <meta property="og:description" content="RSVP Form" />
-  <meta property="og:image" content="https://raw.githubusercontent.com/yaelandchaimswedding/yaelandchaimswedding.github.io/refs/heads/main/Wedding%20Invitation%20-%20thumbnail.jpg" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/yaelandchaimswedding/yaelandchaimswedding.github.io/refs/heads/main/Wedding%20Invitation%20-%20thumbnail.png" />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
   <meta property="twitter:url" content="https://yaelandchaimswedding.github.io/" />
   <meta property="twitter:title" content="Yael and Chaim’s Wedding! TEST 7 | RSVP Form" />
   <meta property="twitter:description" content="RSVP Form" />
-  <meta property="twitter:image" content="https://raw.githubusercontent.com/yaelandchaimswedding/yaelandchaimswedding.github.io/refs/heads/main/Wedding%20Invitation%20-%20thumbnail.jpg" />
+  <meta property="twitter:image" content="https://raw.githubusercontent.com/yaelandchaimswedding/yaelandchaimswedding.github.io/refs/heads/main/Wedding%20Invitation%20-%20thumbnail.png" />
 </head>
 
 <!-- Meta Tags Generated with https://metatags.io -->
