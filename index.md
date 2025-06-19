@@ -5,7 +5,7 @@ body {
 </style>
 
 <!-- Primary Meta Tags -->
-<title>Yael and Chaim’s Wedding! TEST 7 | RSVP Form</title>
+<title> Yael and Chaim’s Wedding! TEST 7 | RSVP Form </title>
 <meta name="title" content="Yael and Chaim’s Wedding! TEST 7 | RSVP Form" />
 <meta name="description" content="RSVP Form" />
 
