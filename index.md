@@ -4,7 +4,7 @@ body {
 }
 </style>
 
-!-- Open Graph / Facebook -->
+<!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://yaelandchaimswedding.github.io/" />
 <meta property="og:title" content="Yael and Chaim’s Wedding!! | RSVP Form" />
